@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T13:23:01.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.8" etag="Wp_b5S5yrhT0xSiAQpge" type="github"><diagram id="9KltoEiMFRZ-cWhHwVm_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-06T15:27:32.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_GZgyI-5g9qkTtPn-nHR" version="14.1.8" type="github">
+  <diagram id="9KltoEiMFRZ-cWhHwVm_" name="Page-1">
+    <mxGraphModel dx="920" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <object label="Agent De Voyage" id="SzMuVc1lnAGWNy8_8t0y-1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="40" y="250" width="40" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-6" value="Réserver une chambre d&#39;hotel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="316" y="100" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-14" value="Réserver un taxi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-17" value="Réserver Un Billet de Train" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="461" y="110" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="SzMuVc1lnAGWNy8_8t0y-19" target="SzMuVc1lnAGWNy8_8t0y-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-19" value="Organiser un Voyage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-29" value="include" style="endArrow=classic;html=1;" edge="1" parent="1" target="SzMuVc1lnAGWNy8_8t0y-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-62" value="include" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="SzMuVc1lnAGWNy8_8t0y-19" target="SzMuVc1lnAGWNy8_8t0y-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-63" value="include" style="endArrow=classic;html=1;dashed=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SzMuVc1lnAGWNy8_8t0y-19" target="SzMuVc1lnAGWNy8_8t0y-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-64" value="include" style="endArrow=classic;html=1;dashed=1;entryX=0.328;entryY=1.333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.898;exitY=-0.095;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SzMuVc1lnAGWNy8_8t0y-19" target="SzMuVc1lnAGWNy8_8t0y-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-65" value="Facture" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="316" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzMuVc1lnAGWNy8_8t0y-67" value="Dericteur d&#39;agence" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="390" width="30" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
